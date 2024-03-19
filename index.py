@@ -13,3 +13,5 @@ app.layout = html.Div([
 # Run app
 if __name__ == '__main__':
     app.run_server(debug=True)
+
+#hey dagim whats up man
